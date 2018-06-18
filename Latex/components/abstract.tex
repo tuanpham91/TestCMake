@@ -1,0 +1,11 @@
+
+\cleardoublepage
+
+\vspace*{2cm}
+\begin{center}
+{\Large \textbf{Abstract}}
+\end{center}
+\vspace{1cm}
+Robotic assisted minimally invasive surgery has gained increasing acceptance in recent years due to providing superior accuracy and instrument manoeuvrability. This is of interest especially for ophthalmic surgery, which requires high precision due to the delicate structure of the eye. Some severe diseases, such as retinal vein occlusion, cannot be treated appropriately today because of the physiological tremor in the surgeons hand. The surgical assistant developed in the iRAM!S project offers the capability to declare an arbitrary point in the workspace of the robot as a programmable Remote Center of Motion (RCM) and suppress motion of the tool at this point while maintaining high precision and rigidity through its novel Parallel Coupled Joint Mechanisms (PCJM).
+This thesis contrasts two methods for implementing the RCM constraint for the surgical robot: The augmented Jacobian method and the Levenberg-Marquardt algorithm. In the first part, the forwards and inverse kinematics as well as the Jacobian matrix for the end effector are reviewed. A virtual fixture is implemented by defining an extended robot task and the corresponding augmented Jacobian matrix. In the second part, the precision of the augmented Jacobian method is evaluated using the V-REP simulation environment and compared to the built-in inverse kinematic solver, which utilizes the Levenberg-Marquardt algorithm. The augmented Jacobian method is shown to maintain the RCM point with high accuracy, even for a suboptimal choice of control parameters. 
+

@@ -1,0 +1,80 @@
+%% Creator: Inkscape inkscape 0.91, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file '3_7_tex.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{425.19685039bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.66666667)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{3_7_tex.pdf}}%
+    \put(0.09313333,0.03694564){\makebox(0,0)[lb]{\smash{1260}}}%
+    \put(0.24159934,0.03694564){\makebox(0,0)[lb]{\smash{1264}}}%
+    \put(0.39006535,0.03694564){\makebox(0,0)[lb]{\smash{1268}}}%
+    \put(0.53853136,0.03694564){\makebox(0,0)[lb]{\smash{1272}}}%
+    \put(0.68699737,0.03694564){\makebox(0,0)[lb]{\smash{1276}}}%
+    \put(0.8354632,0.03694564){\makebox(0,0)[lb]{\smash{1280}}}%
+    \put(0.50235556,0.00609571){\makebox(0,0)[lb]{\smash{step}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{3_7_tex.pdf}}%
+    \put(0.07337797,0.06907909){\makebox(0,0)[lb]{\smash{$-4$}}}%
+    \put(0.07337797,0.13337356){\makebox(0,0)[lb]{\smash{$-3$}}}%
+    \put(0.07337797,0.20476613){\makebox(0,0)[lb]{\smash{$-2$}}}%
+    \put(0.07337797,0.27615872){\makebox(0,0)[lb]{\smash{$-1$}}}%
+    \put(0.09219278,0.34755129){\makebox(0,0)[lb]{\smash{$0$}}}%
+    \put(0.09219278,0.41894386){\makebox(0,0)[lb]{\smash{$1$}}}%
+    \put(0.09219278,0.49033645){\makebox(0,0)[lb]{\smash{$2$}}}%
+    \put(0.09219278,0.56172902){\makebox(0,0)[lb]{\smash{$3$}}}%
+    \put(0.09219278,0.6331216){\makebox(0,0)[lb]{\smash{$4$}}}%
+    \put(0.06302888,0.30085985){\rotatebox{90}{\makebox(0,0)[lb]{\smash{deviation [m]}}}}%
+    \put(0.12982222,0.64312698){\makebox(0,0)[lb]{\smash{$\cdot 10^{-5}$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{3_7_tex.pdf}}%
+    \put(0.7945231,0.61165888){\makebox(0,0)[lb]{\smash{x position}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{3_7_tex.pdf}}%
+    \put(0.7945231,0.58698138){\makebox(0,0)[lb]{\smash{y position}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{3_7_tex.pdf}}%
+    \put(0.7945231,0.56230388){\makebox(0,0)[lb]{\smash{z position}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{3_7_tex.pdf}}%
+  \end{picture}%
+\endgroup%

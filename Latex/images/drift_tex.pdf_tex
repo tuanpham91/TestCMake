@@ -1,0 +1,112 @@
+%% Creator: Inkscape inkscape 0.91, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'drift_tex.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{425.19685039bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.7)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{drift_tex.pdf}}%
+    \put(0.10912593,0.48165925){\makebox(0,0)[lb]{\smash{$0$}}}%
+    \put(0.22063983,0.48165925){\makebox(0,0)[lb]{\smash{$200$}}}%
+    \put(0.34626503,0.48165925){\makebox(0,0)[lb]{\smash{$400$}}}%
+    \put(0.47189004,0.48165925){\makebox(0,0)[lb]{\smash{$600$}}}%
+    \put(0.59751506,0.48165925){\makebox(0,0)[lb]{\smash{$800$}}}%
+    \put(0.71749581,0.48165925){\makebox(0,0)[lb]{\smash{$1000$}}}%
+    \put(0.84312083,0.48165925){\makebox(0,0)[lb]{\smash{$1200$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{drift_tex.pdf}}%
+    \put(0.06961481,0.50517777){\makebox(0,0)[lb]{\smash{$-4$}}}%
+    \put(0.06961481,0.54257222){\makebox(0,0)[lb]{\smash{$-2$}}}%
+    \put(0.09219259,0.58372962){\makebox(0,0)[lb]{\smash{$0$}}}%
+    \put(0.09219259,0.62488703){\makebox(0,0)[lb]{\smash{$2$}}}%
+    \put(0.09219259,0.66604444){\makebox(0,0)[lb]{\smash{$4$}}}%
+    \put(0.06302963,0.53104814){\rotatebox{90}{\makebox(0,0)[lb]{\smash{deviation [m]}}}}%
+    \put(0.1222963,0.67733333){\makebox(0,0)[lb]{\smash{$\cdot 10^{-5}$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{drift_tex.pdf}}%
+    \put(0.78551852,0.64817036){\makebox(0,0)[lb]{\smash{x position}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{drift_tex.pdf}}%
+    \put(0.78593707,0.62318493){\makebox(0,0)[lb]{\smash{linear fit}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{drift_tex.pdf}}%
+    \put(0.06302963,0.30903333){\rotatebox{90}{\makebox(0,0)[lb]{\smash{deviation [m]}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{drift_tex.pdf}}%
+    \put(0.78928148,0.42615555){\makebox(0,0)[lb]{\smash{y position}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{drift_tex.pdf}}%
+    \put(0.78928148,0.40075555){\makebox(0,0)[lb]{\smash{linear fit}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{drift_tex.pdf}}%
+    \put(0.49859297,0.01034814){\makebox(0,0)[lb]{\smash{step}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{drift_tex.pdf}}%
+    \put(0.06302963,0.08748888){\rotatebox{90}{\makebox(0,0)[lb]{\smash{deviation [m]}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{drift_tex.pdf}}%
+    \put(0.79774815,0.20424437){\makebox(0,0)[lb]{\smash{z position}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{drift_tex.pdf}}%
+    \put(0.10912593,0.25964444){\makebox(0,0)[lb]{\smash{$0$}}}%
+    \put(0.22063983,0.25964444){\makebox(0,0)[lb]{\smash{$200$}}}%
+    \put(0.34626503,0.25964444){\makebox(0,0)[lb]{\smash{$400$}}}%
+    \put(0.47189004,0.25964444){\makebox(0,0)[lb]{\smash{$600$}}}%
+    \put(0.59751506,0.25964444){\makebox(0,0)[lb]{\smash{$800$}}}%
+    \put(0.71749581,0.25964444){\makebox(0,0)[lb]{\smash{$1000$}}}%
+    \put(0.84312083,0.25964444){\makebox(0,0)[lb]{\smash{$1200$}}}%
+    \put(0.06961481,0.28316296){\makebox(0,0)[lb]{\smash{$-4$}}}%
+    \put(0.06961481,0.3205574){\makebox(0,0)[lb]{\smash{$-2$}}}%
+    \put(0.09219259,0.36171481){\makebox(0,0)[lb]{\smash{$0$}}}%
+    \put(0.09219259,0.40287222){\makebox(0,0)[lb]{\smash{$2$}}}%
+    \put(0.09219259,0.44402962){\makebox(0,0)[lb]{\smash{$4$}}}%
+    \put(0.1222963,0.45531851){\makebox(0,0)[lb]{\smash{$\cdot 10^{-5}$}}}%
+    \put(0.10912593,0.03762962){\makebox(0,0)[lb]{\smash{$0$}}}%
+    \put(0.22063983,0.03762962){\makebox(0,0)[lb]{\smash{$200$}}}%
+    \put(0.34626503,0.03762962){\makebox(0,0)[lb]{\smash{$400$}}}%
+    \put(0.47189004,0.03762962){\makebox(0,0)[lb]{\smash{$600$}}}%
+    \put(0.59751506,0.03762962){\makebox(0,0)[lb]{\smash{$800$}}}%
+    \put(0.71749581,0.03762962){\makebox(0,0)[lb]{\smash{$1000$}}}%
+    \put(0.84312083,0.03762962){\makebox(0,0)[lb]{\smash{$1200$}}}%
+    \put(0.06961481,0.06114814){\makebox(0,0)[lb]{\smash{$-4$}}}%
+    \put(0.06961481,0.09854259){\makebox(0,0)[lb]{\smash{$-2$}}}%
+    \put(0.09219259,0.13969999){\makebox(0,0)[lb]{\smash{$0$}}}%
+    \put(0.09219259,0.1808574){\makebox(0,0)[lb]{\smash{$2$}}}%
+    \put(0.09219259,0.22201481){\makebox(0,0)[lb]{\smash{$4$}}}%
+    \put(0.1222963,0.2333037){\makebox(0,0)[lb]{\smash{$\cdot 10^{-5}$}}}%
+  \end{picture}%
+\endgroup%

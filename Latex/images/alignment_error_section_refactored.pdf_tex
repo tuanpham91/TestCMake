@@ -1,0 +1,80 @@
+%% Creator: Inkscape inkscape 0.91, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'alignment_error_section_refactored.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{425.19685039bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.66666667)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{alignment_error_section_refactored.pdf}}%
+    \put(0.08527002,0.04609073){\color[rgb]{0.14901961,0.14901961,0.14901961}\makebox(0,0)[lb]{\smash{$670$}}}%
+    \put(0.23892882,0.04609073){\color[rgb]{0.14901961,0.14901961,0.14901961}\makebox(0,0)[lb]{\smash{$674$}}}%
+    \put(0.39258763,0.04609073){\color[rgb]{0.14901961,0.14901961,0.14901961}\makebox(0,0)[lb]{\smash{$678$}}}%
+    \put(0.54624643,0.04609073){\color[rgb]{0.14901961,0.14901961,0.14901961}\makebox(0,0)[lb]{\smash{$682$}}}%
+    \put(0.69990524,0.04609073){\color[rgb]{0.14901961,0.14901961,0.14901961}\makebox(0,0)[lb]{\smash{$686$}}}%
+    \put(0.85356404,0.04609073){\color[rgb]{0.14901961,0.14901961,0.14901961}\makebox(0,0)[lb]{\smash{$690$}}}%
+    \put(0.50296353,0.01937886){\color[rgb]{0.14901961,0.14901961,0.14901961}\makebox(0,0)[lb]{\smash{step}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{alignment_error_section_refactored.pdf}}%
+    \put(0.05950832,0.07023484){\color[rgb]{0.14901961,0.14901961,0.14901961}\makebox(0,0)[lb]{\smash{$-2$}}}%
+    \put(0.04016704,0.13100389){\color[rgb]{0.14901961,0.14901961,0.14901961}\makebox(0,0)[lb]{\smash{$-1.5$}}}%
+    \put(0.05950832,0.1955359){\color[rgb]{0.14901961,0.14901961,0.14901961}\makebox(0,0)[lb]{\smash{$-1$}}}%
+    \put(0.04016704,0.26006795){\color[rgb]{0.14901961,0.14901961,0.14901961}\makebox(0,0)[lb]{\smash{$-0.5$}}}%
+    \put(0.07858636,0.32459998){\color[rgb]{0.14901961,0.14901961,0.14901961}\makebox(0,0)[lb]{\smash{$0$}}}%
+    \put(0.05924509,0.38913202){\color[rgb]{0.14901961,0.14901961,0.14901961}\makebox(0,0)[lb]{\smash{$0.5$}}}%
+    \put(0.07858636,0.45366403){\color[rgb]{0.14901961,0.14901961,0.14901961}\makebox(0,0)[lb]{\smash{$1$}}}%
+    \put(0.05924509,0.51819606){\color[rgb]{0.14901961,0.14901961,0.14901961}\makebox(0,0)[lb]{\smash{$1.5$}}}%
+    \put(0.08234933,0.58272809){\color[rgb]{0.14901961,0.14901961,0.14901961}\makebox(0,0)[lb]{\smash{$2$}}}%
+    \put(0.03977227,0.29319151){\color[rgb]{0.14901961,0.14901961,0.14901961}\rotatebox{90.00000308}{\makebox(0,0)[lb]{\smash{deviation [m]}}}}%
+    \put(0.1061114,0.61961969){\color[rgb]{0.14901961,0.14901961,0.14901961}\makebox(0,0)[lb]{\smash{$\cdot 10^{-5}$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{alignment_error_section_refactored.pdf}}%
+    \put(0.81587286,0.58836988){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{x position}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{alignment_error_section_refactored.pdf}}%
+    \put(0.81587286,0.56418107){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{y position}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{alignment_error_section_refactored.pdf}}%
+    \put(0.81587287,0.53882512){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{z position}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{alignment_error_section_refactored.pdf}}%
+  \end{picture}%
+\endgroup%

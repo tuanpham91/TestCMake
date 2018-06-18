@@ -1,0 +1,51 @@
+\chapter{Appendix}
+
+\hspace{3cm}
+\rotatebox{90}{
+  \begin{minipage}{18cm}
+	\begin{eqnarray}
+	J_a =
+		\begin{bmatrix}
+			0	& l_2 c1 + l_6 c3 s1 + l_5 s1 s3 + q_4 c3 s1			& 0& c1 (l_6 s3 - l_5 c3 + q_4 s3)				& -c1 c3	& 0			\\
+			0	& 1											& 0& 0									& 0		& 0			\\
+			0	& 0											& 0& c1									& 0		& 0			\\
+			0	& l_2 c1 + l_5 s1 s3 + q_4 c3 s1 + l_6 \lambda c3 s1	& 0& c1 (q_4 s3 - l_5 c3 + l_6 \lambda s3)		& -c1 c3	& -l_6 c1 c3	\\
+			0	& 0											& 1& - l_5 s3 - q_4 c3 - l_6 \lambda c3			& -s3	& -l_6 s3		\\
+			1	& l_5 c1 s3 - l_2 s1 + q_4 c1 c3 + l_6 \lambda c1 c3	& 0& -s1 (q_4 s3 - l_5 c3 + l_6 \lambda s3)		& c3 s1	& l_6 c3 s1	\\
+		\end{bmatrix}\label{J_a_full}
+	\end{eqnarray}
+	\hspace{1cm} with $ci,si := \cos(i), \sin(i)$.
+  \end{minipage}
+}
+
+% Matlab output:
+%J_ext=	[
+%	0, L2*cos(q1) + L6*cos(q3)*sin(q1) + L5*sin(q1)*sin(q3) + q4*cos(q3)*sin(q1), 0,         cos(q1)*(L6*sin(q3) - L5*cos(q3) + q4*sin(q3)), -cos(q1)*cos(q3),                   0;
+%	0,                                                                                1, 0,                                                      0,                0,                   0;
+%	0,                                                                                0, 0,                                                cos(q1),                0,                   0;
+%	0, L2*cos(q1) + L5*sin(q1)*sin(q3) + q4*cos(q3)*sin(q1) + L6*lambda*cos(q3)*sin(q1), 0,  cos(q1)*(q4*sin(q3) - L5*cos(q3) + L6*lambda*sin(q3)), -cos(q1)*cos(q3), -L6*cos(q1)*cos(q3);
+%	0,                                                                                0, 1,          - L5*sin(q3) - q4*cos(q3) - L6*lambda*cos(q3),         -sin(q3),         -L6*sin(q3);
+%	1, L5*cos(q1)*sin(q3) - L2*sin(q1) + q4*cos(q1)*cos(q3) + L6*lambda*cos(q1)*cos(q3), 0, -sin(q1)*(q4*sin(q3) - L5*cos(q3) + L6*lambda*sin(q3)),  cos(q3)*sin(q1),  L6*cos(q3)*sin(q1)
+%		];
+
+
+% after replacement:
+%J_ext=	[ 
+%	0& l_2 c1 + l_6 c3 s1 + l_5 s1 s3 + q4 c3 s1& 0&         c1 (l_6 s3 - l_5 c3 + q4 s3)& -c1 c3&                   0\\
+%	0&                                                                                1& 0&                                                      0&                0&                   0\\
+%	0&                                                                                0& 0&                                                c1&                0&                   0\\
+%	0& l_2 c1 + l_5 s1 s3 + q4 c3 s1 + l_6 lambda c3 s1& 0&  c1 (q4 s3 - l_5 c3 + l_6 lambda s3)& -c1 c3& -l_6 c1 c3\\
+%	0&                                                                                0& 1&          - l_5 s3 - q4 c3 - l_6 lambda c3&         -s3&         -l_6 s3\\
+%	1& l_5 c1 s3 - l_2 s1 + q4 c1 c3 + l_6 lambda c1 c3& 0& -s1 (q4 s3 - l_5 c3 + l_6 lambda s3)&  c3 s1&  l_6 c3 s1\\
+%		]
+
+
+
+%J_ext=	[ 
+%	0& l_2*c1 + l_6*c3*s1 + l_5*s1*s3 + q4*c3*s1& 0&         c1*(l_6*s3 - l_5*c3 + q4*s3)& -c1*c3&                   0\\
+%	0&                                                                                1& 0&                                                      0&                0&                   0\\
+%	0&                                                                                0& 0&                                                c1&                0&                   0\\
+%	0& l_2*c1 + l_5*s1*s3 + q4*c3*s1 + l_6*lambda*c3*s1& 0&  c1*(q4*s3 - l_5*c3 + l_6*lambda*s3)& -c1*c3& -l_6*c1*c3\\
+%	0&                                                                                0& 1&          - l_5*s3 - q4*c3 - l_6*lambda*c3&         -s3&         -l_6*s3\\
+%	1& l_5*c1*s3 - l_2*s1 + q4*c1*c3 + l_6*lambda*c1*c3& 0& -s1*(q4*s3 - l_5*c3 + l_6*lambda*s3)&  c3*s1&  l_6*c3*s1\\
+%		]

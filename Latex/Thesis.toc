@@ -1,0 +1,38 @@
+\select@language {german}
+\select@language {english}
+\select@language {german}
+\select@language {english}
+\select@language {english}
+\select@language {german}
+\select@language {english}
+\contentsline {chapter}{Acknowledgements}{6}{Doc-Start}
+\contentsline {chapter}{\numberline {1}Introduction}{11}{chapter.1}
+\contentsline {section}{\numberline {1.1}Objectives of this Thesis}{11}{section.1.1}
+\contentsline {section}{\numberline {1.2}Robotic Assisted Minimally Invasive Surgery}{11}{section.1.2}
+\contentsline {section}{\numberline {1.3}Outline}{13}{section.1.3}
+\contentsline {chapter}{\numberline {2}Background}{15}{chapter.2}
+\contentsline {section}{\numberline {2.1}Mechanical Design}{16}{section.2.1}
+\contentsline {section}{\numberline {2.2}Forward Kinematics}{17}{section.2.2}
+\contentsline {section}{\numberline {2.3}Inverse Kinematics}{18}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}The Jacobian Matrix and the Jacobian Pseudoinverse}{18}{subsection.2.3.1}
+\contentsline {section}{\numberline {2.4}The V-REP Simulation Environment}{20}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Introduction to V-REP}{20}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Dampened Least Squares}{21}{subsection.2.4.2}
+\contentsline {chapter}{\numberline {3}Method}{23}{chapter.3}
+\contentsline {section}{\numberline {3.1}Remote Center of Motion Constraint}{23}{section.3.1}
+\contentsline {section}{\numberline {3.2}Controller Design}{26}{section.3.2}
+\contentsline {section}{\numberline {3.3}Control Loop}{26}{section.3.3}
+\contentsline {section}{\numberline {3.4}Measuring the Accuracy of the RCM position}{27}{section.3.4}
+\contentsline {section}{\numberline {3.5}Modelling the Surgical Robot in V-REP}{28}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Defining the Inverse Kinematic Task}{30}{subsection.3.5.1}
+\contentsline {chapter}{\numberline {4}Results}{33}{chapter.4}
+\contentsline {section}{\numberline {4.1}Accuracy of the Jacobian Pseudoinverse Method}{33}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Choosing the Matrix K}{33}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Error in the RCM Position}{33}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Accuracy of the Dampened Least Squares Method}{37}{section.4.2}
+\contentsline {chapter}{\numberline {5}Conclusion}{41}{chapter.5}
+\contentsline {paragraph}{Preventing drift of the RCM position:}{41}{section*.2}
+\contentsline {paragraph}{Improving the control matrix $\bm {K}$:}{41}{section*.3}
+\contentsline {paragraph}{Inclusion of a third rotation into the Jacobian matrix and simulation:}{41}{section*.4}
+\contentsline {paragraph}{Inclusion of dynamic effects into the Simulation:}{42}{section*.5}
+\contentsline {chapter}{\numberline {6}Appendix}{43}{chapter.6}

@@ -1,0 +1,105 @@
+%% Creator: Inkscape inkscape 0.91, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'IK_refactored_2.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{433bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.8575949)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{IK_refactored_2.pdf}}%
+    \put(0.68545531,0.55917068){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{prismatic}}}%
+    \put(0.69366627,0.53330463){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{joint $L_3$}}}%
+    \put(0.03320504,0.67741548){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Needle}}}%
+    \put(0.03550044,0.65524458){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{base 1}}}%
+    \put(0.18565644,0.68089491){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{prismatic}}}%
+    \put(0.1938415,0.65584484){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{joint $L_1$}}}%
+    \put(0.36530198,0.680644){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Needle}}}%
+    \put(0.36483541,0.65431143){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{slider 1}}}%
+    \put(0.52423093,0.68111063){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{revolute}}}%
+    \put(0.53244189,0.65524458){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{joint 1}}}%
+    \put(0.71544559,0.680644){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Needle}}}%
+    \put(0.68281408,0.65407812){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{upper base 2}}}%
+    \put(0.18427713,0.79935544){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{prismatic}}}%
+    \put(0.19248808,0.77348939){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{joint $L_2$}}}%
+    \put(0.36530198,0.79888881){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Needle}}}%
+    \put(0.36483541,0.77255624){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{slider 2}}}%
+    \put(0.52423093,0.79935544){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{revolute}}}%
+    \put(0.53244189,0.77348939){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{joint 2}}}%
+    \put(0.71544559,0.79888881){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Needle}}}%
+    \put(0.68701335,0.77232292){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{lower base 2}}}%
+    \put(0.88635564,0.79935544){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{prismatic}}}%
+    \put(0.89020912,0.77348939){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{joint $C_1$}}}%
+    \put(0.69786549,0.43306895){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Needle}}}%
+    \put(0.69739892,0.40673638){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{slider 3}}}%
+    \put(0.68849156,0.3102732){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{revolute}}}%
+    \put(0.69670258,0.28440715){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{joint 3}}}%
+    \put(0.6873556,0.18605096){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Needle}}}%
+    \put(0.66261857,0.15948485){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{upper base 3}}}%
+    \put(0.862931,0.06448234){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{prismatic}}}%
+    \put(0.87047962,0.03861629){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{joint $C_2$}}}%
+    \put(0.8648446,0.55902014){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{prismatic}}}%
+    \put(0.87305556,0.53315408){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{joint $L_4$}}}%
+    \put(0.87939047,0.43288716){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Needle}}}%
+    \put(0.8789239,0.4065546){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{slider 4}}}%
+    \put(0.87179888,0.31041597){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{revolute}}}%
+    \put(0.88000979,0.28454991){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{joint 4}}}%
+    \put(0.87399,0.18610869){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Needle}}}%
+    \put(0.84925292,0.15954304){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{lower base 3}}}%
+    \put(0.49215812,0.18683108){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{prismatic}}}%
+    \put(0.50034321,0.16178112){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{joint $L_5$}}}%
+    \put(0.33812309,0.18599119){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Needle}}}%
+    \put(0.35150397,0.16012514){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{case}}}%
+    \put(0.16814617,0.18599119){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Needle}}}%
+    \put(0.18891733,0.16012514){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{tip}}}%
+    \put(0.01233529,0.13252428){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Parent of:}}}%
+    \put(0.03895564,0.24335386){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Link}}}%
+    \put(0.03526049,0.18093224){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Joint}}}%
+    \put(0.01603044,0.08026702){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{IK pair:}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{IK_refactored_2.pdf}}%
+    \put(0.34225942,0.35133269){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{RCM}}}%
+    \put(0.19075826,0.35133269){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{tip}}}%
+  \end{picture}%
+\endgroup%

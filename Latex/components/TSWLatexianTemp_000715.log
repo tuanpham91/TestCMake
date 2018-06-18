@@ -1,0 +1,411 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.12.1)  13 NOV 2017 01:38
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex"
+(/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:1: Undefined control sequence.
+l.1 \chapter
+            {Appendix}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:1: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \chapter{A
+              ppendix}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no x in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[] 
+ []
+
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:3: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \begin{equation}
+                    \label{J_a}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--3
+[] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:5: LaTeX Error: Environment bmatrix undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 		\begin{bmatrix}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:6: Misplaced alignment tab character &.
+l.6 			0 &
+           l2c1+l6c3s1+l5s1s3+q4c3s1 & 0 & c1(l6s3-l5c3+q4s3) & -c1c3 & 0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:6: Misplaced alignment tab character &.
+l.6 			0 & l2c1+l6c3s1+l5s1s3+q4c3s1 &
+                                       0 & c1(l6s3-l5c3+q4s3) & -c1c3 & 0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:6: Misplaced alignment tab character &.
+l.6 			0 & l2c1+l6c3s1+l5s1s3+q4c3s1 & 0 &
+                                           c1(l6s3-l5c3+q4s3) & -c1c3 & 0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:6: Misplaced alignment tab character &.
+l.6 ...s1+l5s1s3+q4c3s1 & 0 & c1(l6s3-l5c3+q4s3) &
+                                                   -c1c3 & 0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:6: Misplaced alignment tab character &.
+l.6 ...3+q4c3s1 & 0 & c1(l6s3-l5c3+q4s3) & -c1c3 &
+                                                   0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:7: Misplaced alignment tab character &.
+l.7 			0 &
+           0 & 0 & s1 & 0 & 0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:7: Misplaced alignment tab character &.
+l.7 			0 & 0 &
+               0 & s1 & 0 & 0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:7: Misplaced alignment tab character &.
+l.7 			0 & 0 & 0 &
+                   s1 & 0 & 0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:7: Misplaced alignment tab character &.
+l.7 			0 & 0 & 0 & s1 &
+                        0 & 0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:7: Misplaced alignment tab character &.
+l.7 			0 & 0 & 0 & s1 & 0 &
+                            0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:8: Misplaced alignment tab character &.
+l.8 			0 &
+           1 & 0 & 0 & 0 & 0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:8: Misplaced alignment tab character &.
+l.8 			0 & 1 &
+               0 & 0 & 0 & 0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:8: Misplaced alignment tab character &.
+l.8 			0 & 1 & 0 &
+                   0 & 0 & 0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:8: Misplaced alignment tab character &.
+l.8 			0 & 1 & 0 & 0 &
+                       0 & 0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:8: Misplaced alignment tab character &.
+l.8 			0 & 1 & 0 & 0 & 0 &
+                           0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:9: Misplaced alignment tab character &.
+l.9 			0 &
+           l2c1+l5s1s3+q4c3s1+l6\lambda c3s1 & 0 & \lambda(c1(l6s3-l5c3+q4s3)+c1(l5c3-q4s3)) -c1(l5c3-q4s3) & -c1c3 & -c1c3(l6+q4)+q4c1c3\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:9: Misplaced alignment tab character &.
+l.9 			0 & l2c1+l5s1s3+q4c3s1+l6\lambda c3s1 &
+                                               0 & \lambda(c1(l6s3-l5c3+q4s3)+c1(l5c3-q4s3)) -c1(l5c3-q4s3) & -c1c3 & -c1c3(l6+q4)+q4c1c3\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:9: Misplaced alignment tab character &.
+l.9 			0 & l2c1+l5s1s3+q4c3s1+l6\lambda c3s1 & 0 &
+                                                   \lambda(c1(l6s3-l5c3+q4s3)+c1(l5c3-q4s3)) -c1(l5c3-q4s3) & -c1c3 & -c1c3(l6+q4)+q4c1c3\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:9: Misplaced alignment tab character &.
+l.9 ...-l5c3+q4s3)+c1(l5c3-q4s3)) -c1(l5c3-q4s3) &
+                                                   -c1c3 & -c1c3(l6+q4)+q4c1c3\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:9: Misplaced alignment tab character &.
+l.9 ...s3)+c1(l5c3-q4s3)) -c1(l5c3-q4s3) & -c1c3 &
+                                                   -c1c3(l6+q4)+q4c1c3\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:10: Misplaced alignment tab character &.
+l.10 			0 &
+            1 & 0 & 0 & 0 & 0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:10: Misplaced alignment tab character &.
+l.10 			0 & 1 &
+                0 & 0 & 0 & 0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:10: Misplaced alignment tab character &.
+l.10 			0 & 1 & 0 &
+                    0 & 0 & 0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:10: Misplaced alignment tab character &.
+l.10 			0 & 1 & 0 & 0 &
+                        0 & 0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:10: Misplaced alignment tab character &.
+l.10 			0 & 1 & 0 & 0 & 0 &
+                            0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:11: Misplaced alignment tab character &.
+l.11 			0 &
+            0 & 0 & c1 & 0 & 0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:11: Misplaced alignment tab character &.
+l.11 			0 & 0 &
+                0 & c1 & 0 & 0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:11: Misplaced alignment tab character &.
+l.11 			0 & 0 & 0 &
+                    c1 & 0 & 0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:11: Misplaced alignment tab character &.
+l.11 			0 & 0 & 0 & c1 &
+                         0 & 0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:11: Misplaced alignment tab character &.
+l.11 			0 & 0 & 0 & c1 & 0 &
+                             0\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+/Users/manuelviermetz/Desktop/anna thesis/Thesis/components/TSWLatexianTemp_000715.tex:12: LaTeX Error: \begin{equation} on input line 3 ended by \end{bmatrix}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 		\end{bmatrix}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (963.20265pt too wide) detected at line 13
+[]\OML/cmm/m/it/10 J[] \OT1/cmr/m/n/10 = 0\OML/cmm/m/it/10 l\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 1 + \OML/cmm/m/it/10 l\OT1/cmr/m/n/10 6\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 1 + \OML/cmm/m/it/10 l\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 3 + \OML/cmm/m/it/10 q\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 10\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 1(\OML/cmm/m/it/10 l\OT1/cmr/m/n/10 6\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 3 \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 l\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 3 + \OML/cmm/m/it/10 q\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 3) \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 c\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 30[] 000\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 100[] 010000[] 0\OML/cmm/m/it/10 l\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 1 + \OML/cmm/m/it/10 l\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 3 + \OML/cmm/m/it/10 q\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 1 + \OML/cmm/m/it/10 l\OT1/cmr/m/n/10 6\OML/cmm/m/it/10 ^^Uc\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 10\OML/cmm/m/it/10 ^^U\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 1(\OML/cmm/m/it/10 l\OT1/cmr/m/n/10 6\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 3 \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 l\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 3 + \OML/cmm/m/it/10 q\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 3) + \OML/cmm/m/it/10 c\OT1/cmr/m/n/10 1(\OML/cmm/m/it/10 l\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 3 \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 q\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 3)) \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 c\OT1/cmr/m/n/10 1(\OML/cmm/m/it/10 l\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 3 \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 q\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 3) \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 c\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 3 \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 c\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 3(\OML/cmm/m/it/10 l\OT1/cmr/m/n/10 6 + \OML/cmm/m/it/10 q\OT1/cmr/m/n/10 4) + \OML/cmm/m/it/10 q\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 3[] 010000[] 000\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 100[] 
+ []
+
+)
+! Emergency stop.
+<*> ...esis/components/TSWLatexianTemp_000715.tex"
+                                                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 11 strings out of 493014
+ 416 string characters out of 6133351
+ 54601 words of memory out of 5000000
+ 3653 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,3n,12p,226b,82s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

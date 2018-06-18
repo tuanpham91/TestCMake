@@ -1,0 +1,67 @@
+\documentclass[11pt,a4paper,footexclude,headsepline,footsepline,BCOR12mm,DIV13]{scrbook}
+\usepackage[utf8]{inputenc}
+\usepackage[english,german]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{styles/tumlogo}
+\graphicspath{{images/}}
+\usepackage{algorithm,algorithmic}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{todo}
+
+\usepackage{bm} % Use \bm{\theta} 
+
+\usepackage{mathtools}	% for small minus
+\newcommand*{\matminus}{%
+  \leavevmode
+  \hphantom{0}%
+  \llap{%
+    \settowidth{\dimen0 }{$0$}%
+    \resizebox{1.1\dimen0 }{\height}{$-$}%
+  }%
+}
+
+\newcommand*{\matplus}{	% for small plus
+	\text{+}
+}
+
+% remove indent after newline
+\setlength\parindent{0pt}
+
+% for rotated matrix
+\usepackage{mathtools}
+\usepackage{rotating}
+
+% for pdf_tex
+\usepackage{import}
+\usepackage{xcolor}
+
+\author{Anna Baumeister}
+\title{Path Planning for an Ophthalmic Surgical Robot using V-REP}
+\begin{document}
+
+\input{components/cover}
+\cleardoublepage
+\input{components/titlepage}
+\input{components/disclaimer}
+\input{components/acknowledgements}
+\input{components/abstract}
+
+\tableofcontents{}
+
+\input{components/Introduction}
+\input{components/Background}
+\input{components/Method}
+
+\input{components/Results}
+
+\input{components/FutureWork}
+\input{components/Appendix}
+
+\bibliographystyle{plain}
+\bibliography{References}
+
+\end{document}
